@@ -4,9 +4,6 @@ Este projeto realiza web scraping no site Climatempo para extrair e organizar in
 
 ![OnAcademy](https://github.com/user-attachments/assets/062ddcf5-ea8d-4e71-b31e-f574b1dee29c)
 
-## Motivação
-A OnAcademy surgiu da necessidade de transformar a maneira como acompanhamos e gerenciamos o desempenho acadêmico. Percebemos que, embora o conceito de avaliação de conduta já exista, ele A ideia surgiu da necessidade de acessar rapidamente dados confiáveis sobre o clima, sem depender de interfaces pesadas ou publicidade. Além disso, o projeto também serve como um exercício prático de coleta automatizada de dados com Python.
-
 ## Sobre o Projeto
 O script realiza a extração dos seguintes dados diretamente do site Climatempo:
 - Previsão do dia
